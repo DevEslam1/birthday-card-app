@@ -28,7 +28,7 @@ If you're looking for a **Flutter-based Birthday Card App**, here’s what you m
 
 ### **How to Run**  
 ```bash
-git clone https://github.com/example/flutter-birthday-card.git
+git clone https://github.com/example/flutter-birthday-card.git](https://github.com/DevEslam1/birthday-card-app.git
 cd flutter-birthday-card
 flutter pub get
 flutter run
