@@ -7,8 +7,6 @@ If you're looking for a **Flutter-based Birthday Card App**, here’s what you m
 - 🎨 Animated UI with confetti, balloons, or emoji effects  
 - 📸 Option to add images (from gallery/camera)  
 - ✏️ Text customization (fonts, colors, sizes)  
-- 🎶 Background music or sound effects  
-- 📤 Share functionality (via WhatsApp, SMS, etc.)  
 
 
 ### **Sample GitHub Repositories**  
@@ -20,12 +18,3 @@ If you're looking for a **Flutter-based Birthday Card App**, here’s what you m
    - Customizable text & images  
    - Share functionality  
 
-### **How to Run**  
-```bash
-git clone https://github.com/example/flutter-birthday-card.git](https://github.com/DevEslam1/birthday-card-app.git
-cd flutter-birthday-card
-flutter pub get
-flutter run
-```
-
-# birthday-card-app
