@@ -10,12 +10,6 @@ If you're looking for a **Flutter-based Birthday Card App**, here’s what you m
 - 🎶 Background music or sound effects  
 - 📤 Share functionality (via WhatsApp, SMS, etc.)  
 
-### **Example Flutter Packages Used**  
-- `flutter_animate` (for animations)  
-- `confetti` (for celebration effects)  
-- `image_picker` (to add photos)  
-- `share_plus` (for sharing the card)  
-- `google_fonts` (for custom fonts)  
 
 ### **Sample GitHub Repositories**  
 1. **[Flutter Birthday Card](https://github.com/yourusername/flutter-birthday-card)** (example)  
